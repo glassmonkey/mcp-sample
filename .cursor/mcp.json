@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+      "現在時刻取得するMCPサーバー": {
+        "command": "./bin/app",
+        "args": []
+      }
+  }
+}
